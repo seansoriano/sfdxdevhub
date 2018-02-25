@@ -1,7 +1,5 @@
 # SFDX Simple App
 
-This is an update
-
 [![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com/)
 
 The Salesforce Developer Experience (SFDX) starts with source code living in your version control system.
